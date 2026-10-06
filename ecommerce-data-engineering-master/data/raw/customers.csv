@@ -1,0 +1,6 @@
+customer_id,customer_name,email,state
+C001,John Smith,john@email.com,VA
+C002,Sarah Lee,sarah@email.com,TX
+C003,David Miller,david@email.com,CA
+C004,Priya Patel,priya@email.com,NJ
+C005,Michael Brown,michael@email.com,NY

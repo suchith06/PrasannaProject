@@ -1,0 +1,8 @@
+order_id,product_id,quantity,product_name,category,price,line_total,customer_id,order_date,status,customer_name,email,state
+O001,P001,1,Laptop,Electronics,999.99,999.99,C001,2026-01-10,Completed,John Smith,john@email.com,VA
+O001,P002,2,Headphones,Electronics,79.99,159.98,C001,2026-01-10,Completed,John Smith,john@email.com,VA
+O002,P003,1,Office Chair,Furniture,249.99,249.99,C002,2026-01-11,Completed,Sarah Lee,sarah@email.com,TX
+O004,P004,1,Smartphone,Electronics,699.99,699.99,C003,2026-01-18,Completed,David Miller,david@email.com,CA
+O004,P005,2,Desk Lamp,Furniture,49.99,99.98,C003,2026-01-18,Completed,David Miller,david@email.com,CA
+O006,P001,1,Laptop,Electronics,999.99,999.99,C005,2026-01-22,Completed,Michael Brown,michael@email.com,NY
+O006,P005,1,Desk Lamp,Furniture,49.99,49.99,C005,2026-01-22,Completed,Michael Brown,michael@email.com,NY
